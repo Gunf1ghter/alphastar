@@ -1,2 +1,2 @@
 # alphastar
-test sommit
+test сommit
